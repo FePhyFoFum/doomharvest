@@ -1,5 +1,5 @@
 # doomharvest
-![logo](doomharvest.png)
+![logo](doomharvest_name.png)
 
 ## Description
 

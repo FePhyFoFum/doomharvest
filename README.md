@@ -1,6 +1,8 @@
 # doomharvest
 ![logo](doomharvest_name.png)
 
+(The art above was AI generated. This is not done in support of AI art but instead seems appropriate given the nature of the package.)
+
 ## Description
 
 This is a package for using chatgpt to gather natural history data.
